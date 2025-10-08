@@ -1,9 +1,9 @@
-<![CDATA[<footer id="footer" class="footer-section">
+<footer id="footer" class="footer-section">
     <div class="container">
         <div class="footer-grid">
             <div class="footer-column">
                 <div class="footer-logo">
-                    <img src="assets/images/logo-white.png" alt="SecureIndia Logo">
+                    <img src="assets/images/logo-white.svg" alt="SecureIndia Logo">
                 </div>
                 <p class="company-description">India's leading electrical safety inspection and compliance services provider, ensuring safety and reliability since 2018.</p>
                 <div class="social-links">
@@ -59,13 +59,13 @@
                 <a href="#certifications">Certifications</a>
             </div>
             <div class="footer-badges">
-                <img src="assets/images/iso-badge.png" alt="ISO Certified">
-                <img src="assets/images/cea-badge.png" alt="CEA Approved">
-                <img src="assets/images/secure-badge.png" alt="Secure Payment">
+                <img src="assets/images/iso-badge.svg" alt="ISO Certified">
+                <img src="assets/images/cea-badge.svg" alt="CEA Approved">
+                <img src="assets/images/secure-badge.svg" alt="Secure Payment">
             </div>
             <div class="copyright">
                 <p>&copy; <?php echo date('Y'); ?> SecureIndia. All rights reserved.</p>
             </div>
         </div>
     </div>
-</footer>]]>
+</footer>

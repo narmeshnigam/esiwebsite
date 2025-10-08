@@ -12,7 +12,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
         <nav class="main-nav">
             <div class="nav-brand">
                 <a href="/">
-                    <img src="assets/images/logo.png" alt="ESI-First Logo" class="site-logo">
+                    <img src="assets/images/logo.svg" alt="ESI-First Logo" class="site-logo">
                 </a>
             </div>
             <ul class="nav-links">
