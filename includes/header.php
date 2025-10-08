@@ -16,14 +16,14 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                 </a>
             </div>
             <ul class="nav-links">
-                <li<?php echo $currentPage == 'industries.php' ? ' class="active"' : ''; ?>>
-                    <a href="#industries">Industries</a>
+                <li<?php echo $currentPage == 'why-esi.php' ? ' class="active"' : ''; ?>>
+                    <a href="#why-choose">Why ESI</a>
                 </li>
                 <li<?php echo $currentPage == 'use-case.php' ? ' class="active"' : ''; ?>>
                     <a href="#case-studies">Use Case</a>
                 </li>
-                <li<?php echo $currentPage == 'why-esi.php' ? ' class="active"' : ''; ?>>
-                    <a href="#why-choose">Why ESI</a>
+                <li<?php echo $currentPage == 'industries.php' ? ' class="active"' : ''; ?>>
+                    <a href="#industries">Industries</a>
                 </li>
                 <li<?php echo $currentPage == 'about.php' ? ' class="active"' : ''; ?>>
                     <a href="#about">About Us</a>
