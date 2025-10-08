@@ -126,12 +126,12 @@ body {
 :root {
     /* Brand Colors */
     --primary-color: #e31837;  /* SecureIndia Red */
-    --secondary-color: #2c3e50; /* Dark Blue-Grey */
+    --secondary-color: #1e3a5f; /* Dark Blue */
     --accent-color: #f39c12;   /* Warning/Attention Orange */
     --text-dark: #2c3e50;
-    --text-light: #ecf0f1;
+    --text-light: #ffffff;
     --bg-light: #ffffff;
-    --bg-grey: #f8f9fa;
+    --bg-grey: #ffffff;
     
     /* Typography */
     --font-primary: 'Helvetica Neue', Arial, sans-serif;
@@ -255,10 +255,7 @@ h3 {
 /* Section Common Styles */
 section {
     padding: var(--spacing-xl) 0;
-}
-
-section:nth-child(even) {
-    background-color: var(--bg-grey);
+    background-color: var(--bg-light);
 }
 
 /* Responsive Design */
@@ -458,7 +455,7 @@ section:nth-child(even) {
 
 /* Trust Section */
 .trust-section {
-    background-color: var(--bg-grey);
+    background-color: var(--bg-light);
 }
 
 .section-subtitle {
@@ -620,7 +617,7 @@ section:nth-child(even) {
 
 /* Industries Section */
 .industries-section {
-    background-color: var(--bg-grey);
+    background-color: var(--bg-light);
 }
 
 .industries-grid {
@@ -830,7 +827,7 @@ section:nth-child(even) {
 
 /* Certifications Section */
 .certifications-section {
-    background-color: var(--bg-grey);
+    background-color: var(--bg-light);
 }
 
 .certifications-grid {
