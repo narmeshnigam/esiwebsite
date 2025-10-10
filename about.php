@@ -21,6 +21,7 @@ $pageDescription = "Learn about SecureIndia's legacy, licenses, coverage, leader
     
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/about.css">
     
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -35,23 +36,17 @@ $pageDescription = "Learn about SecureIndia's legacy, licenses, coverage, leader
     <!-- Header -->
     <?php include_once 'includes/header.php'; ?>
 
-    <!-- Coming Soon Section -->
-    <section class="coming-soon-section">
-        <div class="container">
-            <div class="coming-soon-content">
-                <h1>About SecureIndia</h1>
-                <p class="subtitle">Leading electrical safety inspection company with proven expertise and quality commitment</p>
-                <div class="coming-soon-message">
-                    <i class="fas fa-building"></i>
-                    <h2>Page Coming Soon</h2>
-                    <p>We're crafting a comprehensive company story covering our legacy, licenses, nationwide coverage, leadership team, and quality philosophy to help you understand why SecureIndia is the trusted choice for electrical safety inspections.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- CTA Section -->
-    <?php include_once 'sections/cta.php'; ?>
+    <!-- About Page Content -->
+    <?php include_once 'sections/about/hero.php'; ?>
+    <?php include_once 'sections/about/journey.php'; ?>
+    <?php include_once 'sections/about/mission-vision.php'; ?>
+    <?php include_once 'sections/about/values.php'; ?>
+    <?php include_once 'sections/about/reach.php'; ?>
+    <?php include_once 'sections/about/leadership.php'; ?>
+    <?php include_once 'sections/about/certifications.php'; ?>
+    <?php include_once 'sections/about/csr.php'; ?>
+    <?php include_once 'sections/about/testimonials.php'; ?>
+    <?php include_once 'sections/about/final-cta.php'; ?>
 
     <!-- Footer -->
     <?php include_once 'includes/footer.php'; ?>
