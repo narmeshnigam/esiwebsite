@@ -1,7 +1,40 @@
-<div class="floating-contact" id="floating-contact">
-    <div class="floating-buttons">
+<div class="floating-contact" id="floating-cont        <a href="mailto:hi@secureindia.online?subject=Site Survey Inquiry&body=Hi, I'm interested in booking a site survey for my facility. Please contact me." 
+           class="floating-btn email-btn" 
+           data-tooltip="Email Us">
+            <i class="fas fa-envelope"></i>
+        </a>
+    <                         <div class="contact-options">
+                <a href="tel:+919654640101" class="contact-option primary">
+                    <i class="fas fa-phone"></i>
+                    <div class="option-text">
+                        <strong>Call Now</strong>
+                        <span>+91-96546-40101</span>
+                    </div>
+                </a>
+                
+                <a href="https://wa.me/919654640101" target="_blank" class="contact-option whatsapp">
+                    <i class="fab fa-whatsapp"></i>
+                    <div class="option-text">
+                        <strong>WhatsApp</strong>
+                        <span>Quick Support</span>
+                    </div>
+                </a>+919654640101" class="contact-option primary">
+                    <i class="fas fa-phone"></i>
+                    <div class="option-text">
+                        <strong>Call Now</strong>
+                        <span>+91-96546-40101</span>
+                    </div>
+                </a>
+                
+                <a href="https://wa.me/919654640101" target="_blank" class="contact-option whatsapp">
+                    <i class="fab fa-whatsapp"></i>
+                    <div class="option-text">
+                        <strong>WhatsApp</strong>
+                        <span>Quick Support</span>
+                    </div>
+                </a>ting-buttons">
         <!-- WhatsApp Button -->
-        <a href="https://wa.me/911234567890?text=Hi, I need a site survey for my facility. Can you help?" 
+        <a href="https://wa.me/919654640101?text=Hi, I need a site survey for my facility. Can you help?" 
            target="_blank" 
            class="floating-btn whatsapp-btn" 
            data-tooltip="Chat on WhatsApp">
@@ -9,14 +42,14 @@
         </a>
 
         <!-- Call Button -->
-        <a href="tel:+911234567890" 
+        <a href="tel:+919654640101" 
            class="floating-btn call-btn" 
            data-tooltip="Call Now">
             <i class="fas fa-phone"></i>
         </a>
 
         <!-- Email Button -->
-        <a href="mailto:surveys@secureindia.in?subject=Site Survey Inquiry&body=Hi, I'm interested in booking a site survey for my facility. Please contact me." 
+        <a href="mailto:hi@secureindia.online?subject=Site Survey Inquiry&body=Hi, I'm interested in booking a site survey for my facility. Please contact me." 
            class="floating-btn email-btn" 
            data-tooltip="Send Email">
             <i class="fas fa-envelope"></i>
@@ -57,15 +90,15 @@
             </div>
 
             <div class="contact-options">
-                <a href="tel:+911234567890" class="contact-option primary">
+                <a href="tel:+919654640101" class="contact-option primary">
                     <i class="fas fa-phone"></i>
                     <div class="option-text">
                         <strong>Call Now</strong>
-                        <span>+91-12345-67890</span>
+                        <span>+91-96546-40101</span>
                     </div>
                 </a>
                 
-                <a href="https://wa.me/911234567890" target="_blank" class="contact-option whatsapp">
+                <a href="https://wa.me/919654640101" target="_blank" class="contact-option whatsapp">
                     <i class="fab fa-whatsapp"></i>
                     <div class="option-text">
                         <strong>WhatsApp</strong>

@@ -152,7 +152,7 @@
             <p>Our experts can help you choose the best package based on your facility type, compliance requirements, and budget.</p>
             <div class="comparison-ctas">
                 <a href="/book-site-survey.php" class="btn btn-secondary">Book Free Site Survey</a>
-                <a href="tel:+911234567890" class="btn btn-link">
+                <a href="tel:+919654640101" class="btn btn-link">
                     <i class="fas fa-phone"></i>
                     Call for Consultation
                 </a>

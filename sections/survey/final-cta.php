@@ -1,6 +1,13 @@
 <section class="survey-final-cta" id="final-cta">
     <div class="container">
-        <div class="cta-content">
+        <div class=                        <a href="tel:+919654640101" class="contact-btn call-btn">
+                            <i class="fas fa-phone"></i>
+                            <span>Call: +91-96546-40101</span>
+                        </a>
+                        <a href="https://wa.me/919654640101" target="_blank" class="contact-btn whatsapp-btn">
+                            <i class="fab fa-whatsapp"></i>
+                            <span>WhatsApp Support</span>
+                        </a>tent">
             <div class="cta-left">
                 <h2>Ready to Schedule Your Site Survey?</h2>
                 <p>Professional electrical safety assessment with same-day availability in major cities</p>
@@ -97,11 +104,11 @@
                 <div class="alternative-contact">
                     <p>Prefer to speak directly?</p>
                     <div class="contact-buttons">
-                        <a href="tel:+911234567890" class="contact-btn call-btn">
+                        <a href="tel:+919654640101" class="contact-btn call-btn">
                             <i class="fas fa-phone"></i>
-                            <span>Call: +91-12345-67890</span>
+                            <span>Call: +91-96546-40101</span>
                         </a>
-                        <a href="https://wa.me/911234567890" target="_blank" class="contact-btn whatsapp-btn">
+                        <a href="https://wa.me/919654640101" target="_blank" class="contact-btn whatsapp-btn">
                             <i class="fab fa-whatsapp"></i>
                             <span>WhatsApp Chat</span>
                         </a>

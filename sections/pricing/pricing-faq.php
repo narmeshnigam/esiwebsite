@@ -1,7 +1,10 @@
 <section class="pricing-faq" id="pricing-faq">
     <div class="container">
         <div class="section-header">
-            <h2>Have Questions About Cost or Scope?</h2>
+            <h2>Have Q                    <a href="tel:+919654640101" class="btn btn-primary">
+                        <i class="fas fa-phone"></i>
+                        Call Expert
+                    </a>ions About Cost or Scope?</h2>
             <p>Common pricing questions answered to help you make an informed decision</p>
         </div>
         
@@ -135,7 +138,7 @@
                 <p>Our pricing experts are available to clarify any doubts and help you choose the right package</p>
                 <div class="cta-buttons">
                     <a href="/faq.php" class="btn btn-secondary">Read Full FAQ</a>
-                    <a href="tel:+911234567890" class="btn btn-primary">
+                    <a href="tel:+919654640101" class="btn btn-primary">
                         <i class="fas fa-phone"></i>
                         Call Us Now
                     </a>

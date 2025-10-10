@@ -1,4 +1,17 @@
-<div class="help-chat-widget" id="help-chat">
+<div class="h            <div class="help-options">
+                <a href="tel:+919654640101" class="help-option">
+                    <i class="fas fa-phone"></i>
+                    <span>Call Expert</span>
+                </a>
+                <a href="https://wa.me/919654640101" class="help-option" target="_blank">
+                    <i class="fab fa-whatsapp"></i>
+                    <span>WhatsApp Support</span>
+                </a>
+                <a href="mailto:hi@secureindia.online" class="help-option">
+                    <i class="fas fa-envelope"></i>
+                    <span>Email Support</span>
+                </a>
+            </div>t" id="help-chat">
     <button class="chat-toggle" id="chat-toggle">
         <i class="fas fa-question-circle"></i>
         <span>Need Help?</span>
@@ -12,15 +25,15 @@
         </div>
         <div class="chat-content">
             <div class="help-options">
-                <a href="tel:+919876543210" class="help-option">
+                <a href="tel:+919654640101" class="help-option">
                     <i class="fas fa-phone"></i>
                     <span>Call Us Now</span>
                 </a>
-                <a href="https://wa.me/919876543210" class="help-option" target="_blank">
+                <a href="https://wa.me/919654640101" class="help-option" target="_blank">
                     <i class="fab fa-whatsapp"></i>
                     <span>WhatsApp Support</span>
                 </a>
-                <a href="mailto:help@secureindia.co.in" class="help-option">
+                <a href="mailto:hi@secureindia.online" class="help-option">
                     <i class="fas fa-envelope"></i>
                     <span>Email Support</span>
                 </a>
