@@ -16,24 +16,24 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                 </a>
             </div>
             <ul class="nav-links">
-                <li<?php echo $currentPage == 'why-esi.php' ? ' class="active"' : ''; ?>>
-                    <a href="#why-choose">Why ESI</a>
+                <li<?php echo $currentPage == 'services.php' ? ' class="active"' : ''; ?>>
+                    <a href="services.php">Services</a>
                 </li>
-                <li<?php echo $currentPage == 'use-case.php' ? ' class="active"' : ''; ?>>
-                    <a href="#case-studies">Use Case</a>
+                <li<?php echo $currentPage == 'pricing.php' ? ' class="active"' : ''; ?>>
+                    <a href="pricing.php">Pricing</a>
                 </li>
                 <li<?php echo $currentPage == 'industries.php' ? ' class="active"' : ''; ?>>
-                    <a href="#industries">Industries</a>
+                    <a href="industries.php">Industries</a>
                 </li>
                 <li<?php echo $currentPage == 'about.php' ? ' class="active"' : ''; ?>>
-                    <a href="#about">About Us</a>
+                    <a href="about.php">About</a>
                 </li>
                 <li<?php echo $currentPage == 'contact.php' ? ' class="active"' : ''; ?>>
-                    <a href="#contact">Contact</a>
+                    <a href="contact.php">Contact</a>
                 </li>
             </ul>
             <div class="nav-cta">
-                <a href="#enquiry" class="btn btn-primary">Get in Touch</a>
+                <a href="book-site-survey.php" class="btn btn-primary">Book Survey</a>
             </div>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>

@@ -10,30 +10,30 @@
             <h2>Ready to Ensure Your Facility's Electrical Safety?</h2>
             <p class="cta-subtitle">Talk to our certified inspection experts today</p>
             <div class="cta-actions">
-                <a href="#survey" class="btn btn-primary">Book a Site Survey</a>
+                <a href="book-site-survey.php" class="btn btn-primary">Book a Site Survey</a>
                 <span class="cta-divider">or</span>
-                <a href="#quote" class="btn btn-secondary">Get a Quote</a>
+                <a href="get-quote.php" class="btn btn-secondary">Get a Quote</a>
             </div>
             <div class="contact-options">
                 <div class="contact-method">
                     <i class="fas fa-phone"></i>
                     <div class="contact-info">
                         <span class="label">Call us at</span>
-                        <a href="tel:+911234567890">+91 123 456 7890</a>
+                        <a href="tel:+919654640101">+91 96546 40101</a>
                     </div>
                 </div>
                 <div class="contact-method">
                     <i class="fas fa-envelope"></i>
                     <div class="contact-info">
                         <span class="label">Email us at</span>
-                        <a href="mailto:safety@secureindia.com">safety@secureindia.com</a>
+                        <a href="mailto:hi@secureindia.online">hi@secureindia.online</a>
                     </div>
                 </div>
                 <div class="contact-method">
                     <i class="fab fa-whatsapp"></i>
                     <div class="contact-info">
                         <span class="label">WhatsApp</span>
-                        <a href="https://wa.me/911234567890" target="_blank">Connect on WhatsApp</a>
+                        <a href="https://wa.me/919654640101" target="_blank">Connect on WhatsApp</a>
                     </div>
                 </div>
             </div>

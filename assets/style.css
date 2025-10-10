@@ -1651,3 +1651,84 @@ blockquote {
         height: 30px;
     }
 }
+
+/* Coming Soon Section Styles */
+.coming-soon-section {
+    padding: var(--spacing-xl) 0;
+    margin-top: 80px; /* Account for fixed header */
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.coming-soon-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.coming-soon-content h1 {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: var(--spacing-md);
+    font-weight: 700;
+}
+
+.coming-soon-content .subtitle {
+    font-size: 1.2rem;
+    color: var(--text-dark);
+    margin-bottom: var(--spacing-xl);
+    opacity: 0.8;
+}
+
+.coming-soon-message {
+    background: var(--bg-light);
+    padding: var(--spacing-xl);
+    border-radius: var(--spacing-md);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    margin-bottom: var(--spacing-xl);
+}
+
+.coming-soon-message i {
+    font-size: 3rem;
+    color: var(--accent-color);
+    margin-bottom: var(--spacing-lg);
+}
+
+.coming-soon-message h2 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: var(--spacing-md);
+    font-weight: 600;
+}
+
+.coming-soon-message p {
+    font-size: 1.1rem;
+    color: var(--text-dark);
+    line-height: 1.6;
+    margin: 0;
+    opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+    .coming-soon-content h1 {
+        font-size: 2rem;
+    }
+    
+    .coming-soon-content .subtitle {
+        font-size: 1rem;
+    }
+    
+    .coming-soon-message {
+        padding: var(--spacing-lg);
+    }
+    
+    .coming-soon-message h2 {
+        font-size: 1.5rem;
+    }
+    
+    .coming-soon-message p {
+        font-size: 1rem;
+    }
+}

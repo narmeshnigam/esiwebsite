@@ -7,30 +7,29 @@
                 </div>
                 <p class="company-description">India's leading electrical safety inspection and compliance services provider, ensuring safety and reliability since 2018.</p>
                 <div class="social-links">
-                    <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                    <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/Secureindia8/" target="_blank" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/secureindia.smarthome/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/@smarthomeautomations" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
             <div class="footer-column">
                 <h4>Quick Links</h4>
                 <ul class="footer-links">
-                    <li><a href="#services">Services Overview</a></li>
-                    <li><a href="#pricing">Pricing</a></li>
-                    <li><a href="#case-studies">Case Studies</a></li>
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="services.php">Services Overview</a></li>
+                    <li><a href="pricing.php">Pricing</a></li>
+                    <li><a href="case-studies.php">Case Studies</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
             <div class="footer-column">
                 <h4>Our Services</h4>
                 <ul class="footer-links">
-                    <li><a href="#safety-audit">Safety Audit</a></li>
-                    <li><a href="#compliance">Compliance Check</a></li>
-                    <li><a href="#certification">Safety Certification</a></li>
-                    <li><a href="#training">Staff Training</a></li>
-                    <li><a href="#consultation">Consultation</a></li>
+                    <li><a href="electrical-safety-inspection.php">Electrical Safety Inspection</a></li>
+                    <li><a href="services.php#compliance">Compliance Audit</a></li>
+                    <li><a href="services.php#certification">Safety Certification</a></li>
+                    <li><a href="services.php#training">Staff Training</a></li>
+                    <li><a href="services.php#consultation">Consultation</a></li>
                 </ul>
             </div>
             <div class="footer-column">
@@ -38,25 +37,25 @@
                 <ul class="contact-info">
                     <li>
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>123 Safety Tower, Sector 15<br>Gurugram, Haryana 122001</span>
+                        <span>1605, S-3 Tower, Cloud 9<br>Vaishali, Ghaziabad, UP - 201009</span>
                     </li>
                     <li>
                         <i class="fas fa-phone"></i>
-                        <span>+91 123 456 7890</span>
+                        <span>+91 96546 40101</span>
                     </li>
                     <li>
                         <i class="fas fa-envelope"></i>
-                        <span>safety@secureindia.com</span>
+                        <span>hi@secureindia.online</span>
                     </li>
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
             <div class="compliance-links">
-                <a href="#privacy">Privacy Policy</a>
-                <a href="#terms">Terms of Service</a>
-                <a href="#sla">Service Level Agreement</a>
-                <a href="#certifications">Certifications</a>
+                <a href="privacy.php">Privacy Policy</a>
+                <a href="terms.php">Terms of Service</a>
+                <a href="sla.php">Service Level Agreement</a>
+                <a href="certifications.php">Certifications</a>
             </div>
             <div class="footer-badges">
                 <img src="assets/images/iso-badge.svg" alt="ISO Certified">

@@ -1,7 +1,10 @@
-<![CDATA[<section class="service-cta">
+<section class="service-cta" id="quote">
     <div class="container">
-        <h2>Ready to Secure Your Business?</h2>
-        <p>Get in touch with our security experts for a customized solution</p>
-        <a href="/contact" class="btn btn-primary">Contact Us Today</a>
+        <h2>Book Your Electrical Safety Inspection Today</h2>
+        <p>Ensure compliance, avoid downtime, and protect your assets.</p>
+        <div class="cta-actions">
+            <a href="/quote.php" class="btn btn-primary">Get a Quote</a>
+            <a href="/book-site-survey.php" class="btn btn-secondary">Book a Site Survey</a>
+        </div>
     </div>
-</section>]]>
+</section>

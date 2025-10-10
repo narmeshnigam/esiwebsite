@@ -10,8 +10,8 @@
             <h1>India's Most Trusted Electrical Safety Inspection Experts</h1>
             <p class="hero-subtitle">Ensure your facility's compliance, safety, and insurance validity with certified inspections by licensed professionals.</p>
             <div class="hero-cta">
-                <a href="#contact" class="btn btn-primary">Get a Quote</a>
-                <a href="#survey" class="btn btn-secondary">Book a Site Survey</a>
+                <a href="get-quote.php" class="btn btn-primary">Get a Quote</a>
+                <a href="book-site-survey.php" class="btn btn-secondary">Book a Site Survey</a>
             </div>
             <div class="certification-overlay">
                 <div class="cert-icon">

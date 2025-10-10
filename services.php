@@ -73,7 +73,9 @@ $pageDescription = "Explore SecureIndia's comprehensive electrical safety and co
     <?php include_once 'sections/services/industries.php'; ?>
     <?php include_once 'sections/services/compliance.php'; ?>
     <?php include_once 'sections/services/case-studies.php'; ?>
+    <?php include_once 'sections/services/trust-bar.php'; ?>
     <?php include_once 'sections/services/cta.php'; ?>
+    <?php include_once 'sections/services/compare-bar.php'; ?>
 
     <!-- Footer -->
     <?php include_once 'includes/footer.php'; ?>
