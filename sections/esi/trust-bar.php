@@ -1,28 +1,41 @@
-<section class="esi-trust-bar">
+<section class="trust-bar" id="trust">
     <div class="container">
-        <div class="trust-items">
-            <div class="trust-item">
-                <img src="assets/images/certifications/cea-logo.png" alt="CEA Certified">
-                <span>CEA Certified</span>
+        <div class="trust-cards">
+            <div class="trust-card">
+                <div class="trust-icon">
+                    <i class="fas fa-certificate"></i>
+                </div>
+                <div class="trust-metric">
+                    <strong>CEA</strong>
+                    <span>Certified Engineers</span>
+                </div>
             </div>
-            <div class="trust-item">
-                <img src="assets/images/certifications/iso-logo.png" alt="ISO 9001">
-                <span>ISO 9001</span>
+            <div class="trust-card">
+                <div class="trust-icon">
+                    <i class="fas fa-award"></i>
+                </div>
+                <div class="trust-metric">
+                    <strong>ISO 9001</strong>
+                    <span>Quality Management</span>
+                </div>
             </div>
-            <div class="trust-item">
-                <img src="assets/images/certifications/nabl-logo.png" alt="NABL Calibrated">
-                <span>NABL Calibrated</span>
+            <div class="trust-card">
+                <div class="trust-icon">
+                    <i class="fas fa-tools"></i>
+                </div>
+                <div class="trust-metric">
+                    <strong>NABL</strong>
+                    <span>Calibrated Equipment</span>
+                </div>
             </div>
-            <div class="trust-item">
-                <img src="assets/images/certifications/bee-logo.png" alt="BEE Empanelled">
-                <span>BEE Empanelled</span>
-            </div>
-            <div class="trust-separator"></div>
-            <div class="client-logos">
-                <img src="assets/images/clients/client-1.png" alt="Client Logo">
-                <img src="assets/images/clients/client-2.png" alt="Client Logo">
-                <img src="assets/images/clients/client-3.png" alt="Client Logo">
-                <span class="client-count">+500 Facilities Inspected</span>
+            <div class="trust-card">
+                <div class="trust-icon">
+                    <i class="fas fa-building"></i>
+                </div>
+                <div class="trust-metric">
+                    <strong>500+</strong>
+                    <span>Facilities Inspected</span>
+                </div>
             </div>
         </div>
     </div>

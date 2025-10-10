@@ -5,33 +5,24 @@
         </div>
         <div class="case-highlights">
             <div class="case-highlight">
-                <div class="case-result">
-                    <span class="result-metric">100%</span>
-                    <span class="result-label">Compliance Achieved</span>
-                </div>
-                <div class="case-details">
+                <div class="highlight-number">100%</div>
+                <div class="highlight-content">
                     <h3>Audit cleared in first attempt</h3>
                     <p>100,000 sq.ft. Factory, Greater Noida</p>
                     <span class="case-tag">Manufacturing</span>
                 </div>
             </div>
             <div class="case-highlight">
-                <div class="case-result">
-                    <span class="result-metric">72hrs</span>
-                    <span class="result-label">Claim Processed</span>
-                </div>
-                <div class="case-details">
+                <div class="highlight-number">72hrs</div>
+                <div class="highlight-content">
                     <h3>Insurance claim processed in 72 hours</h3>
                     <p>Mall Facility, Delhi</p>
                     <span class="case-tag">Commercial</span>
                 </div>
             </div>
             <div class="case-highlight">
-                <div class="case-result">
-                    <span class="result-metric">Zero</span>
-                    <span class="result-label">Downtime</span>
-                </div>
-                <div class="case-details">
+                <div class="highlight-number">Zero</div>
+                <div class="highlight-content">
                     <h3>Zero downtime achieved</h3>
                     <p>IT Campus, Gurgaon</p>
                     <span class="case-tag">IT Park</span>

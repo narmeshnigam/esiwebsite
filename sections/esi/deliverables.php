@@ -96,6 +96,7 @@
                 </div>
             </div>
         </div>
+        <br>
         <div class="section-cta">
             <a href="/sample-report.pdf" class="btn btn-primary" target="_blank">Download Sample Report</a>
         </div>

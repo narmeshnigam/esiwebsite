@@ -157,9 +157,9 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Carousel Navigation -->
-            <div class="carousel-navigation">
+        </div>
+        <!-- Carousel Navigation -->
+        <div class="carousel-navigation">
                 <button class="carousel-btn prev-btn" aria-label="Previous testimonial">
                     <i class="fas fa-chevron-left"></i>
                 </button>

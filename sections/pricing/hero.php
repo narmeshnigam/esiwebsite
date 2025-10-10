@@ -1,4 +1,4 @@
-<section class="pricing-hero" id="pricing-hero">
+<section class="pricing-hero" id="hero">
     <div class="container">
         <div class="hero-content">
             <div class="hero-left">
@@ -25,45 +25,56 @@
                 </div>
                 
                 <div class="hero-ctas">
-                    <a href="/get-quote.php" class="btn btn-primary">Get My Quote</a>
-                    <a href="/book-site-survey.php" class="btn btn-secondary">Book a Site Survey</a>
+                    <a href="get-quote.php" class="btn btn-primary">Get My Quote</a>
+                    <a href="book-site-survey.php" class="btn btn-secondary">Book a Site Survey</a>
                 </div>
             </div>
             
             <div class="hero-right">
-                <div class="pricing-visual">
-                    <div class="pricing-highlight">
-                        <div class="price-range">
-                            <h3>Starting From</h3>
-                            <div class="price">₹10,000</div>
-                            <span>Basic Compliance Package</span>
+                <div class="hero-booking-overlay">
+                    <h3>Pricing Packages Available</h3>
+                    
+                    <div class="booking-highlights">
+                        <div class="booking-highlight">
+                            <i class="fas fa-eye"></i>
+                            <span>Basic Compliance - ₹10,000+</span>
                         </div>
-                        <div class="price-features">
-                            <div class="feature">
-                                <i class="fas fa-check"></i>
-                                <span>Professional engineer visit</span>
-                            </div>
-                            <div class="feature">
-                                <i class="fas fa-check"></i>
-                                <span>NABL-calibrated instruments</span>
-                            </div>
-                            <div class="feature">
-                                <i class="fas fa-check"></i>
-                                <span>Compliance certificate</span>
-                            </div>
-                            <div class="feature">
-                                <i class="fas fa-check"></i>
-                                <span>48-hour delivery</span>
-                            </div>
+                        <div class="booking-highlight">
+                            <i class="fas fa-search"></i>
+                            <span>Standard Audit - ₹25,000+</span>
+                        </div>
+                        <div class="booking-highlight">
+                            <i class="fas fa-star"></i>
+                            <span>Premium Assurance - ₹45,000+</span>
+                        </div>
+                        <div class="booking-highlight">
+                            <i class="fas fa-building"></i>
+                            <span>Enterprise Solutions - Custom</span>
                         </div>
                     </div>
+                    
+                    <div class="available-slots">
+                        <i class="fas fa-check-circle"></i> All packages include compliance certification
+                    </div>
+                    
+                    <div class="stats-preview">
+                        <div class="stat-item">
+                            <div class="stat-number">2000+</div>
+                            <div class="stat-label">Inspections Done</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">48hrs</div>
+                            <div class="stat-label">Report Delivery</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">100%</div>
+                            <div class="stat-label">Compliance Rate</div>
+                        </div>
+                    </div>
+                    
+                    <a href="get-quote.php" class="btn btn-primary btn-full">Get Personalized Quote</a>
                 </div>
             </div>
-        </div>
-        
-        <div class="pricing-disclaimer">
-            <i class="fas fa-info-circle"></i>
-            <span>Final pricing depends on facility size, load capacity, and inspection scope. Get a personalized quote for accurate costs.</span>
         </div>
     </div>
 </section>

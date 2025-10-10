@@ -62,9 +62,10 @@
         </div>
         <div class="pricing-note">
             <p><i class="fas fa-info-circle"></i> Final pricing depends on facility size, complexity, and specific requirements. Contact us for a detailed quote.</p>
-        </div>
+            <br>
         <div class="section-cta">
             <a href="get-quote.php" class="btn btn-primary">Get Custom Quote</a>
+        </div>
         </div>
     </div>
 </section>

@@ -68,7 +68,7 @@ $pageDescription = "Get a tailored quote for electrical safety inspection from c
     <?php include_once 'sections/quote/why-choose.php'; ?>
     <?php include_once 'sections/quote/contact-options.php'; ?>
     <?php include_once 'sections/quote/faq-snippet.php'; ?>
-    <?php include_once 'sections/quote/closing-cta.php'; ?>
+    <?php include_once 'sections/cta.php'; ?>
 
     <!-- Help Chat Widget -->
     <?php include_once 'sections/quote/help-chat.php'; ?>
