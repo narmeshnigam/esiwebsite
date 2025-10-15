@@ -21,6 +21,7 @@ $pageDescription = "Real-world electrical safety inspection case studies. See ho
     
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/case-studies.css">
     
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -32,23 +33,38 @@ $pageDescription = "Real-world electrical safety inspection case studies. See ho
     <meta property="og:url" content="https://secureindia.co.in/case-studies.php">
 </head>
 <body>
+    <!-- Floating CTA Button -->
+    <div class="floating-cta">
+        <a href="get-quote.php" class="btn btn-primary">Get Quote</a>
+    </div>
+
+    <!-- WhatsApp Float Button -->
+    <div class="whatsapp-float">
+        <a href="https://wa.me/919654640101" target="_blank">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+
     <!-- Header -->
     <?php include_once 'includes/header.php'; ?>
 
-    <!-- Coming Soon Section -->
-    <section class="coming-soon-section">
-        <div class="container">
-            <div class="coming-soon-content">
-                <h1>Case Studies</h1>
-                <p class="subtitle">Real-world success stories and measurable results from our electrical safety inspections</p>
-                <div class="coming-soon-message">
-                    <i class="fas fa-chart-line"></i>
-                    <h2>Page Coming Soon</h2>
-                    <p>We're compiling detailed case studies showcasing measurable risk reduction, successful claim approvals, and audit closures across different sectors. This will provide concrete proof of our inspection effectiveness.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- Case Studies Hero Section -->
+    <?php include 'sections/case-studies/hero.php'; ?>
+
+    <!-- Featured Case Studies Section -->
+    <?php include 'sections/case-studies/featured-studies.php'; ?>
+
+    <!-- Industry Success Section -->
+    <?php include 'sections/case-studies/industry-success.php'; ?>
+
+    <!-- Process Transparency Section -->
+    <?php include 'sections/case-studies/process-transparency.php'; ?>
+
+    <!-- Client Testimonials Section -->
+    <?php include 'sections/case-studies/testimonials.php'; ?>
+
+    <!-- Impact Summary Section -->
+    <?php include 'sections/case-studies/impact-summary.php'; ?>
 
     <!-- CTA Section -->
     <?php include_once 'sections/cta.php'; ?>

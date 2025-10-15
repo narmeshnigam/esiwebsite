@@ -25,6 +25,12 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                 <li<?php echo $currentPage == 'industries.php' ? ' class="active"' : ''; ?>>
                     <a href="industries.php">Industries</a>
                 </li>
+                <li<?php echo $currentPage == 'locations.php' ? ' class="active"' : ''; ?>>
+                    <a href="locations.php">Locations</a>
+                </li>
+                <li<?php echo $currentPage == 'resources.php' ? ' class="active"' : ''; ?>>
+                    <a href="resources.php">Resources</a>
+                </li>
                 <li<?php echo $currentPage == 'about.php' ? ' class="active"' : ''; ?>>
                     <a href="about.php">About</a>
                 </li>
